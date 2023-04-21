@@ -1,7 +1,5 @@
 import './Banner.css'
 
-import React from 'react';
-
 interface BannerProps {
     enderecoImagem: string
     textoAlternativo?: string //a interrogacao aqui me informa que o texto alternativo e opcional
